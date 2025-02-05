@@ -24,13 +24,13 @@ This EDA used sales transaction data from January 2022 to December 2023. The dat
 * Tools Used: Python (Pandas, Matplotlib, Seaborn, NumPy) for data manipulation, visualization, and statistical analysis.
 
 ## Key Findings
-1. Demographic Analysis
+* Demographic Analysis
   * Finding: Majority of purchases were made by customers aged 25-35.
   * Implications: This demographic is a strong target for marketing efforts.
-2. Sales Trends
+* Sales Trends
   * Finding: Sales peak during holiday seasons, especially in December.
   * Implications: A promotional campaign during this time could maximize sales.
-3. Customer Segmentation
+* Customer Segmentation
   * Finding: Three key segments emerged: frequent buyers, occasional buyers, and inactive customers.
   * Implications: Tailored marketing strategies for each group may improve customer retention.
 
