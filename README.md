@@ -1,4 +1,4 @@
-# credit_card_eda
+# Exploratory Data Analysis of Credit Card Data
 
 ## Executive Summary
 This case study provides a comprehensive exploratory data analysis (EDA) for customer sales data. The analysis explores key trends, customer behaviors, and potential areas for growth. Key insights include:
